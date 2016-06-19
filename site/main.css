@@ -19,7 +19,7 @@ body {
 }
 img {
   vertical-align: middle;
-  height: 24px;
+  height: 1.2em;
 }
 form {
   border: 1px solid #ccc;
@@ -32,7 +32,6 @@ form {
   margin: auto;
 }
 .contact {
-  width: 300px;
   margin: 0px auto 50px auto;
   text-align: center;
 }
@@ -43,5 +42,21 @@ form {
 .material-icons {
   color: white;
   vertical-align: middle;
-  font-size: 28px;
+  font-size: 1.2em;
+}
+#tlemail {
+  width: 140px;
+}
+@media screen and (max-width: 625px) {
+  .container {
+    width: 80%;
+  }
+  h1 {
+    font-size: 12vw;
+  }
+}
+@media screen and (max-width: 250px) {
+  #tlemail {
+    width: 80%;
+  }
 }
