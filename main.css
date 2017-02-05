@@ -1,13 +1,13 @@
-h1 {
-  color: white;
+h1, h2, h3, p {
+  color: black;
   text-align: center;
   font-family: "Allura", cursive, sans-serif;
+}
+h1 {
   font-size: 72px;
   margin-bottom: -5px;
 }
-p {
-  color: white;
-  text-align: center;
+h2, h3, p {
   font-family: "Raleway", Arial, sans-serif;
 }
 a {
@@ -15,9 +15,14 @@ a {
   text-decoration: none;
 }
 body {
-  background-color: #00cccc;
+  background-color: #fff;
 }
-img {
+img .sponsor-image {
+  display: block;
+  margin: auto;
+  height: 3em;
+}
+.image-icon {
   vertical-align: middle;
   height: 1.2em;
 }
@@ -40,7 +45,7 @@ form {
   padding: 10px;
 }
 .material-icons {
-  color: white;
+  color: black;
   vertical-align: middle;
   font-size: 1.2em;
 }
