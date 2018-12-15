@@ -1,9 +1,6 @@
-# ScalaBridge
-![scalabridge](./images/ScalaBridge.jpg)
+# ScalaBridge ![scalabridge](./images/ScalaBridge-small.png)
 
-## Website
-
-[http://www.scalabridge.org](http://www.scalabridge.org)
+#### Website :point_right: [http://www.scalabridge.org](http://www.scalabridge.org)
 
 ## Overview
 ScalaBridge workshops are intended to teach people from underrepresented populations programming using the [Scala programming language](https://scala-lang.org).
@@ -58,4 +55,5 @@ You can contribute to building a diverse Scala community by contributing to the 
 - [Yifan Xing](https://github.com/xingyif)
 
 ## Copyright and License
-All code of the website is under the MIT license. To get more details, please visit [LICENSE](./LICENSE)
+All code of the website is under the MIT license. Please visit [LICENSE](./LICENSE) for more details.
+
