@@ -14,7 +14,7 @@ ScalaBridge offers the best resource to help to bring diversity to the community
 
 There are currently two projects on GitHub that you can help to maintain:
 - [ScalaBridge Website](https://github.com/scalabridge/website)
-- [ScalaBridge Organizer Guide](https://github.com/scalabridge/website)
+- [ScalaBridge Organizer Guide](https://github.com/xingyif/scalabridge)
 
 ScalaBridge follows a standard [fork and pull model](https://help.github.com/articles/about-collaborative-development-models/) for contributions via GitHub pull requests.
 
