@@ -1,0 +1,12 @@
+---
+layout: default
+title: Blog - ScalaBridge
+---
+{% for post in site.posts %}
+<div class="container-fluid" style="border-color: #ddd; border-width: 1px; border-radius: 4px;">
+  <h2 class="page-header"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <p><strong>{{ post.author }} | {{ post.date | date: "%B %-d, %Y" }}</strong></p>
+  <p>{{ post.excerpt }}</p>
+  <a class="btn btn-default" href="{{ post.url }}" role="button">Read More</a>
+</div>
+{% endfor %}

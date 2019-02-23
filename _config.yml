@@ -13,4 +13,7 @@ markdown: kramdown
 exclude:
   - Gemfile
   - Gemfile.lock
-  - s3_website.yml
+  - README.md
+  - CONTRIBUTING.md
+
+permalink: /posts/:title/

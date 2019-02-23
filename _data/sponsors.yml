@@ -1,0 +1,20 @@
+- name: Twilio
+  logo: twilio.png
+  link: https://www.twilio.com/blog/2018/04/responding-to-incoming-text-messages-with-scala-and-finatra.html
+  workshops:
+    - San Francisco, April 21 2018
+  about: Build the future of communications with Twilio's APIs for voice calling, SMS messaging, two-factor authentication, phone verification and more.
+
+- name: Stripe
+  logo: stripe.png
+  link: https://stripe.com/
+  workshops:
+    - San Francisco, August 19 2017
+  about: Stripe is the best way to accept payments online and in mobile apps. We handle billions of dollars every year for forward-thinking businesses around the world.
+
+- name: Lightbend
+  logo: lightbend-full-color.png
+  link: https://www.lightbend.com/?utm_source=scalabridge&utm_medium=website&utm_campaign=general&utm_term=none&utm_content=none
+  workshops: 
+    - San Francisco, February 11 2017
+  about: Lightbend provides the leading Reactive application development platform for building distributed applications and modernizing aging infrastructures. Using microservices and fast data on a message-driven runtime, your applications scale effortlessly on multi-core and cloud computing architectures. Many of the most admired brands around the globe are transforming their businesses with our platform, engaging billions of users every day through software applications that are changing the world.
