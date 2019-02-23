@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e5d76a95-a220-45b1-be8f-98b483d1b9d6/deploy-status)](https://app.netlify.com/sites/compassionate-lumiere-56587d/deploys)
+
 # ScalaBridge ![scalabridge](./images/ScalaBridge-small.png)
 
 #### Website :point_right: [http://www.scalabridge.org](http://www.scalabridge.org)
