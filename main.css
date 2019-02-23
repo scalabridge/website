@@ -7,6 +7,9 @@ h1 {
   font-size: 72px;
   margin-bottom: -5px;
 }
+#scalabridge-logo {
+  padding: 5px;
+}
 h2, h3, p {
   font-family: "Raleway", Arial, sans-serif;
 }
