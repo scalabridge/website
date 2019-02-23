@@ -7,5 +7,3 @@ layout: default
 {{ site.description }}
 
 {% include contact.html %}
-
-{% include tinyletter.html %}
