@@ -1,23 +1,16 @@
-#scalabridge-logo {
-  padding: 5px;
-}
 body {
-  background-color: #fff;
   padding-top: 50px;
-}
-img .sponsor-image {
-  display: block;
-  margin: auto;
-  height: 3em;
 }
 .image-icon {
   vertical-align: middle;
   height: 1.2em;
 }
-.topleft {
-  position:absolute;
-  left:0;
-  top:0;
+.navbar-logo {
+  float: left;
+  height: 50px;
+  font-size: 18px;
+  line-height: 20px;
+  padding: 5px;
 }
 .contact {
   margin: 0px auto 50px auto;
@@ -33,19 +26,13 @@ img .sponsor-image {
   vertical-align: middle;
   font-size: 1.2em;
 }
-#tlemail {
-  width: 140px;
+.scalabridge-title {
+  font-family: "Allura", cursive, sans-serif; 
+  font-size: 5vw;
+  text-align: center;
 }
-@media screen and (max-width: 625px) {
-  .container {
-    width: 80%;
-  }
-  h1 {
-    font-size: 12vw;
-  }
-}
-@media screen and (max-width: 250px) {
-  #tlemail {
-    width: 80%;
+@media screen and (max-width: 950px) {
+  .scalabridge-title {
+    font-size: 8vw;
   }
 }
