@@ -5,7 +5,7 @@ layout: default
 {% for sponsor in site.data.sponsors %}
   <div class="container-fluid">
     <div class="page-header">
-      <a href="{{ sponsor.link }}"><img class="page-header" src="{{ site.baseurl }}/images/{{ sponsor.logo }}" class="img-responsive" style="max-width:200px;" alt="{{ sponsor.name }} Logo"></a>
+      <a href="{{ sponsor.link }}"><img class="page-header" src="{{ site.baseurl }}/images/{{ sponsor.logo }}" class="img-responsive" style="max-height:60px;" alt="{{ sponsor.name }} Logo"></a>
     </div>
     <p>
       <strong>{{ sponsor.name }}</strong> generously sponsored the following workshops:
