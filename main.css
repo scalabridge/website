@@ -12,9 +12,11 @@ body {
   line-height: 20px;
   padding: 5px;
 }
+.centered {
+  text-align: center;
+}
 .contact {
   margin: 0px auto 50px auto;
-  text-align: center;
 }
 .icon {
   display: inline-block;
@@ -22,14 +24,12 @@ body {
   color: black;
 }
 .material-icons {
-  color: black;
   vertical-align: middle;
   font-size: 1.2em;
 }
 .scalabridge-title {
   font-family: "Allura", cursive, sans-serif; 
   font-size: 5vw;
-  text-align: center;
 }
 @media screen and (max-width: 950px) {
   .scalabridge-title {
