@@ -1,8 +1,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e5d76a95-a220-45b1-be8f-98b483d1b9d6/deploy-status)](https://app.netlify.com/sites/compassionate-lumiere-56587d/deploys)
 
-# ScalaBridge ![scalabridge](./images/ScalaBridge-small.png)
+# ![scalabridge](./images/ScalaBridge-small.png) ScalaBridge 
 
-#### Website :point_right: [http://www.scalabridge.org](http://www.scalabridge.org)
+#### Website :point_right: [https://www.scalabridge.org](https://www.scalabridge.org)
 
 ## Overview
 ScalaBridge workshops are intended to teach people from underrepresented populations programming using the [Scala programming language](https://scala-lang.org).
