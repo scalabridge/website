@@ -40,9 +40,9 @@ As a member of the community, you agree to the following:
 - Assisting others in conducting behaviors, including but not limited to the ones mentioned above, are also considered a Code of Conduct violation.
 
 
-## For ScalaBridge attendees and participants:
+## Dealing With Harassment
 
-### What To Do If You Feel Harassed
+### For ScalaBridge Attendees and Participants
 
 If it is an emergency, if you are injured, or feel threatened, do not hesitate to call the police (911 in the US). Your safety is always our first priority.
 
@@ -59,12 +59,9 @@ If it is an emergency, if you are injured, or feel threatened, do not hesitate t
 If you feel another student, volunteer or organizer has been disrespectful, but aren’t sure if it qualifies as harassment, feel free to respond to that person directly, or email the ScalaBridge moderators. We seek to create a safe learning space and people need to know if their behavior inhibits effective learning for other participants. We welcome your participation in this, and respect your privacy if you choose simply to report the incident. When we know about inappropriate behavior we can work with individuals and improve our training to educate our volunteers.
 
 
-## For ScalaBridge Workshop Organizers:
+### For ScalaBridge Workshop Organizers
 
 As organizers, when encountering harassment reports, you should protect the reporter and do NOT do anything that the reporter does not feel comfortable see happening.
-
-
-### What To Do If Someone Reports Harassment
 
 If someone reports harassment:
 
@@ -82,7 +79,7 @@ The report should contain:
 
 Don’t involve anyone else until an Organizer has determined a response plan. We want to be respectful of the confidentiality of the reporter. If you feel like you need to talk to someone, you may call the number below, so you can discuss this with a volunteer who is experienced in handling harassment situations.
 
-#### As an Organizer,
+### For ScalaBridge Organizers
 
 If there is any general threat to attendees or the safety of anyone, including you or another volunteer is in doubt, summon security or police.
 
@@ -96,7 +93,7 @@ Involve law enforcement or security only at victim’s request, unless you feel 
 
 A staff member can provide the list of emergency contacts and say something like “if you want any help reporting this incident, please let us know” and leave it at that.
 
-#### Reports of harassment that were widely witnessed
+#### Reports of Harassment that were Widely Witnessed
 
 These include things like harassing content in conference talks, or harassment that took place in a crowded space. Simply say “Thanks, this sounds like a breach of our anti-harassment policy. I am going to convene a meeting of a small group of people and figure out what our response will be.”
 
@@ -128,11 +125,14 @@ As soon as possible after that meeting, let the harasser know what action is bei
 
 Originally adapted from [GeekFeminism wiki: Responding to Reports](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Responding_to_reports)
 
-#### Hotline: (252) 591-1411
+### Hotline
+
+The hotline number is +1 (252) 591-1411
 
 If you need to report an issue or are a Bridge workshop organizer in need of advice, please call our hotline. It is staffed by volunteers who have experience facilitating workshops. We can take a report and talk through the concern. We will respond immediately during a workshop. During the week, we may take a day or two to get back to you.
 
-#### Additional contacts:
+### Additional Contacts
+
 General questions: scalabridge@gmail.com
 ScalaBridge Committee Members, listed below
 
