@@ -180,6 +180,3 @@ Adapted from and/or inspired by multiple successful Codes of Conduct, including:
 - The Contributor Covenant v1.4.0
 - The Recurse Center’s User Manual
 - The 18F Code of Conduct
-
-
-
