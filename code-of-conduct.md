@@ -46,9 +46,16 @@ As a member of the community, you agree to the following:
 
 If it is an emergency, if you are injured, or feel threatened, do not hesitate to call the police (911 in the US). Your safety is always our first priority.
 
-1. Organizers will identify themselves at the beginning of the event. If you aren’t sure who the organizers are or where to find them, ask any volunteer (usually identified with a star on their name tag).
+Please report all incidents to an organizer, preferrably in writing, in person or
+in the `incident-report` channel in the [ScalaBridge slack](https://scalabridge.slack.com/).
 
-2. Report the harassment incident to an organizer, preferably in writing. This report will be kept confidential between organizers and counseling advisors; however, if the organizer feels anyone is in danger, police or security will be notified. The report should include:
+Organizers will identify themselves at the beginning of the event. If you aren’t sure who the organizers are or where to find them, ask any volunteer (usually identified with a star on their name tag).
+
+You can use FifthBot to submit anonymous messages in Slack, which are moderated. For instance:
+
+  /fifthbot This message will be anonymous. What an awesome idea!
+
+Reports will be kept confidential between organizers and counseling advisors; however, if the organizer feels anyone is in danger, police or security will be notified. The report should include:
 
    - Identifying information about the person who harassed you
    - The behavior that was in violation of the above anti-harassment policy
@@ -59,7 +66,7 @@ If it is an emergency, if you are injured, or feel threatened, do not hesitate t
 If you feel another student, volunteer or organizer has been disrespectful, but aren’t sure if it qualifies as harassment, feel free to respond to that person directly, or email the ScalaBridge moderators. We seek to create a safe learning space and people need to know if their behavior inhibits effective learning for other participants. We welcome your participation in this, and respect your privacy if you choose simply to report the incident. When we know about inappropriate behavior we can work with individuals and improve our training to educate our volunteers.
 
 
-### For ScalaBridge Workshop Organizers
+### For ScalaBridge Organizers
 
 As organizers, when encountering harassment reports, you should protect the reporter and do NOT do anything that the reporter does not feel comfortable see happening.
 
@@ -79,10 +86,6 @@ The report should contain:
 
 Don’t involve anyone else until an Organizer has determined a response plan. We want to be respectful of the confidentiality of the reporter. If you feel like you need to talk to someone, you may call the number below, so you can discuss this with a volunteer who is experienced in handling harassment situations.
 
-### For ScalaBridge Organizers
-
-If there is any general threat to attendees or the safety of anyone, including you or another volunteer is in doubt, summon security or police.
-
 Offer the victim a private place to sit
 
 - Ask “Is there a friend or trusted person who you would like to be with you?” (if so, arrange for someone to fetch this person)
@@ -101,11 +104,9 @@ These include things like harassing content in conference talks, or harassment t
 
 Follow the instructions above and let them know that you will be collaborating with a volunteer counselor to figure out an appropriate response.
 
-Do not:
+Do not invite them to withdraw the complaint or mention that withdrawal is OK: this suggests that you want them to do so, and is therefore coercive.
 
-- Invite them to withdraw the complaint or mention that withdrawal is OK: this suggests that you want them to do so, and is therefore coercive.
-- Ask for their advice on how to deal with the complaint: this is our responsibility
-- Offer them input into the response: this is our responsibility
+Organizers need to make sure the report is comfortable with the next step before taking actions publicly.
 
 If the response was widely witnessed, it is important to address the incident at the next large group meeting, such as the beginning of lunch, closing remarks or while reviewing the Code of Conduct during the opening remarks if the incident happened at the InstallFest.
 
@@ -174,7 +175,8 @@ The enforcement policies listed above apply to all ScalaBridge events and channe
 ## Credits
 
 Adapted from and/or inspired by multiple successful Codes of Conduct, including:
-- BridgeFoundry Code of Conduct 
+- The Scala Code of Conduct
+- BridgeFoundry Code of Conduct
 - Rust Code of Conduct
 - The Node.js Policy on Trolling
 - The Contributor Covenant v1.4.0
