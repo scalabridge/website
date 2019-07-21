@@ -1,5 +1,6 @@
 body {
   padding-top: 50px;
+  padding-bottom: 50px;
 }
 .image-icon {
   vertical-align: middle;
@@ -35,4 +36,19 @@ body {
   .scalabridge-title {
     font-size: 8vw;
   }
+}
+table{
+    border-collapse: collapse;
+    border: 1px solid #000000;
+    padding: 10px;
+}
+
+th{
+    border:1px solid #000000;
+    padding: 10px;
+}
+
+td{
+    border:1px solid #000000;
+    padding: 10px;
 }
