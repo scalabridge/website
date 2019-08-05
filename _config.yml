@@ -16,5 +16,3 @@ exclude:
   - README.md
   - CONTRIBUTING.md
   - [vendor]
-
-permalink: /posts/:title/
