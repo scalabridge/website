@@ -48,7 +48,8 @@ There are a few ways to promote your event:
 
 *********************************************************************************************
 ## Interested  Mentors
-Please put your name and contact info if you're interested in being a mentor for the future ScalaBridge events in your city. **Note: You do NOT have to have mentorship experience to be a mentor.**
+If you're interested in being a mentor for the future ScalaBridge events in your city, please add your name to this list by making a PR on [this file on Github](https://github.com/scalabridge/website/blob/master/invite-mentors.md), or if you're not sure how to do that, by asking us to do so in a [new Github issue](https://github.com/scalabridge/website/issues). 
+**Note: You do NOT have to have mentorship experience to be a mentor.**
 
 City          | Name                           | Contact Info (Email or Twitter handle if DM open)   | Mentored in ScalaBridge Before? |
 ------------- | ------------------------------ |---------------------------------------------------- | --------------------------------|
