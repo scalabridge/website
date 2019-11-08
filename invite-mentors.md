@@ -54,6 +54,7 @@ If you're interested in being a mentor for the future ScalaBridge events in your
 City          | Name                           | Contact Info (Email or Twitter handle if DM open)   | Mentored in ScalaBridge Before? |
 ------------- | ------------------------------ |---------------------------------------------------- | --------------------------------|
 Amsterdam     | Mike Kotsur                    | [@sotomajor_ua](https://twitter.com/sotomajor_ua)   | No                              |
+Berlin        | Enrique Molina                 | me at quiquedev dot info                            | No                              |
 Boston        | Christopher Davenport          | ChristopherDavenport at outlook dot com             | Yes                             |
 Boston        | Ryan Plessner                  | [@ryan_plessner](https://twitter.com/ryan_plessner) | Yes                             |
 Boston        | Justin du Coeur, AKA Mark Waks | [@jducoeur](https://twitter.com/jducoeur)           | Yes                             |
