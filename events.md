@@ -15,6 +15,13 @@ Boston         | 2019-10-20 | Rue Gilt Groupe | [Registration](https://www.bridg
 
 City          | Date       | Host                | Event page
 ------------- | ---------- | ------------------- | ----------
+Montreal      | 2020-01-23 | Interdata Laboratories Inc.          | [Registration](https://www.bridgetroll.org/events/494)
+Amsterdam     | 2019-11-02 | Simacan             | [Registration](https://www.bridgetroll.org/events/486)
+Boston        | 2019-10-20 | Rue Glit Groupe     | [Registration](https://www.bridgetroll.org/events/488)
+Lausanne      | 2019-06-11 | EPFL                | [Registration](https://www.bridgetroll.org/events/474)
+New York      | 2019-03-28 | Tapad Inc.          | [Registration](https://www.bridgetroll.org/events/464)
+Berlin        | 2019-03-22 | SoundCloud          | [Registration](https://www.bridgetroll.org/events/458)
+Montreal      | 2018-10-22 | Morgan Stanley      | [Registration](https://www.bridgetroll.org/events/449)
 Seattle       | 2018-09-16 | 47 Degrees          | [Registration](https://www.bridgetroll.org/events/440)
 San Francisco | 2018-09-13 | Iterable            | [Registration](https://www.bridgetroll.org/events/440)
 Boston        | 2018-08-05 | Hopper              | [Registration](https://www.bridgetroll.org/events/438)
