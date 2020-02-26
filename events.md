@@ -7,8 +7,7 @@ layout: default
 City           | Date       | Host            | Event page
 -------------- | ---------- | --------------- | ----------
 Silicon Valley | TBD        | TBD             | TBD
-Amsterdam      | 2019-11-02 | Simacan         | [Registration](https://www.bridgetroll.org/events/486)
-Boston         | 2019-10-20 | Rue Gilt Groupe | [Registration](https://www.bridgetroll.org/events/488)
+
 
 
 ## Past events
