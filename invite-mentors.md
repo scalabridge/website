@@ -62,6 +62,7 @@ Chicago       | Andy Hamilton                  | andrew.hamil10@gmail.com       
 Cologne       | Sven Ludwig                    | sven dot ludwig at recogizer dot com                | No (open for travel to cities)  |
 Krakow        | Piotr Gawryś                   | [@p_gawrys](https://twitter.com/p_gawrys)           | No                              |
 London        | Noel Welsh                     | [@noelwelsh](https://twitter.com/noelwelsh)         | Yes                             |
+Eyam          | Aaron Pritzlaff                | [@aaronp](https://twitter.com/aaronpritzlaff)       | No                              |
 Düsseldorf    | Luka Jacobowitz                | luka dot jacobowitz at gmail dot com                | No                              |
 Munich        | Lars Hupel                     | lars at typelevel dot org                           | No                              |
 New York City | Stewart Stewart                | stewinsalot@gmail.com                               | Yes                             |
