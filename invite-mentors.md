@@ -57,6 +57,7 @@ Amsterdam     | Mike Kotsur                    | [@sotomajor_ua](https://twitter
 Boston        | Christopher Davenport          | ChristopherDavenport at outlook dot com             | Yes                             |
 Boston        | Ryan Plessner                  | [@ryan_plessner](https://twitter.com/ryan_plessner) | Yes                             |
 Boston        | Justin du Coeur, AKA Mark Waks | [@jducoeur](https://twitter.com/jducoeur)           | Yes                             |
+Boston        | Paul Thordarson                | [@kapunga](https://twitter.com/kapunga)             | Yes                             |
 Bucharest     | Alexandru Nedelcu              | [@alexelcu](https://twitter.com/alexelcu)           | No                              |
 Chicago       | Andy Hamilton                  | andrew.hamil10@gmail.com                            | Yes                             |
 Cologne       | Sven Ludwig                    | sven dot ludwig at recogizer dot com                | No (open for travel to cities)  |
@@ -70,7 +71,7 @@ Bay Area      | Adelbert Chang                 | [@adelbertchang](https://twitte
 Bay Area      | Seth Tisue                     | seth dot tisue at lightbend dot com                 | Yes                             |
 Bay Area      | Cody Allen                     | ceedubs at gmail dot com                            | Yes                             |
 Seattle       | Andy Scott                     | [@andygscott](https://twitter.com/andygscott)       | Yes                             |
-Rotterdam     | Yevgen Nerush                    | [@nerush](https://twitter.com/nerush)   | No                              |
+Rotterdam     | Yevgen Nerush                  | [@nerush](https://twitter.com/nerush)               | No                              |
 
 
 ## Next Step:
