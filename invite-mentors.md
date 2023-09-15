@@ -70,7 +70,8 @@ Bay Area      | Adelbert Chang                 | [@adelbertchang](https://twitte
 Bay Area      | Seth Tisue                     | seth dot tisue at lightbend dot com                 | Yes                             |
 Bay Area      | Cody Allen                     | ceedubs at gmail dot com                            | Yes                             |
 Seattle       | Andy Scott                     | [@andygscott](https://twitter.com/andygscott)       | Yes                             |
-Rotterdam     | Yevgen Nerush                    | [@nerush](https://twitter.com/nerush)   | No                              |
+Rotterdam     | Yevgen Nerush                  | [@nerush](https://twitter.com/nerush)               | No                              |
+Montpellier (FR) | Lucas Nouguier                 | lucas dot nouguier at protonmail dot com            | Yes                             |
 
 
 ## Next Step:
